@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1741360167 source:c:\users\usuario\documents\historico\cajero_automatico\main.c
+	<stdio.h>
+	<windows.h>
+	"ATM.h"
+
+1741360153 c:\users\usuario\documents\historico\cajero_automatico\atm.h
+
