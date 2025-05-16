@@ -32,8 +32,17 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="ATM.h" />
+		<Unit filename="Estructura.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="GuardarCliente.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prueba.h">
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions />
 	</Project>

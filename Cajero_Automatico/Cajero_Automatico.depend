@@ -6,3 +6,17 @@
 
 1741360153 c:\users\usuario\documents\historico\cajero_automatico\atm.h
 
+1747410118 source:c:\users\usuario\desktop\cajero_automatico\main.c
+	<stdio.h>
+	<windows.h>
+	"ATM.h"
+	"Estructura.h"
+	"GuardarCliente.h"
+
+1747406505 c:\users\usuario\desktop\cajero_automatico\atm.h
+
+1747406874 c:\users\usuario\desktop\cajero_automatico\estructura.h
+
+1747411557 c:\users\usuario\desktop\cajero_automatico\guardarcliente.h
+	"Estructura.h"
+

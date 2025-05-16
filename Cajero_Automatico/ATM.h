@@ -2,18 +2,18 @@
 #define ATM_H_INCLUDED
 
 int SeleccionCuenta();
-void ConsultarSaldo(float saldo);
+//void ConsultarSaldo(struct Cliente Persona[], int cantidad);
 float DepositarDinero();
 float RetirarDinero(float x);
 float Validacion(float a);
 
-
-void ConsultarSaldo(float saldo){
+/*
+void ConsultarSaldo(struct Cliente Persona[], int cantidad){
 	system("cls");
-	printf("\nSu saldo es: $%.2f\n\n",saldo);
+	printf("\nSu saldo es: $%.2f\n\n",Persona[NumCuenta].Saldo);
 	system("pause");
 }
-
+*/
 float Validacion(float a){
 	if(a<0){
 		printf("\nEl valor ingresado no debe ser negativo, intentalo de nuevo\n");
